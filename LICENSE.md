@@ -1,4 +1,4 @@
-# 
+# Último OBS Studio flujo de trabajo para Mac OS | Ligero OBS Studio flujo de trabajo para PC Windows. Con máquina de ritmos y preajustes de exportación — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
